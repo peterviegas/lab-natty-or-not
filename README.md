@@ -70,7 +70,6 @@ Segundo a análise apresentada pelo agente, a imagem reproduziu as característi
 
 ### 🖼️ Imagem gerada
 
-<img width="1264" height="848" alt="image" src="https://github.com/user-attachments/assets/30fffa2a-e3d8-482f-8f2c-59d75a4f99f9" />
 <img width="1264" alt="Égua alazã com seu potro recém-nascido, imagem gerada por Inteligência Artificial" src="https://github.com/user-attachments/assets/30fffa2a-e3d8-482f-8f2c-59d75a4f99f9" />
 
 
